@@ -1,0 +1,36 @@
+_repo: Le-vicomte-de-Bragelonne-Tome-I._13947
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- Historical Fiction
+gutenberg_issued: '2004-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13947'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715 -- Fiction'
+- !lcsh 'Adventure stories'
+title: Le vicomte de Bragelonne, Tome I.
+url: http://www.gutenberg.org/ebooks/13947
